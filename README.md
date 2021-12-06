@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Masters in Computer Science from New York Institure of Technology.
-- 💼 &nbsp; Working as a Web Developer Associate at Coresight Research.
+- 💼 &nbsp; Working as a Web Developer at Coresight Research.
 - 🌱 &nbsp; Learning more about Front-End Technologies with some Backend.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
