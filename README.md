@@ -35,5 +35,5 @@
 
 <br/>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=saumya010" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saumya010&show_icons=true&hide=commits" />
 </p>
